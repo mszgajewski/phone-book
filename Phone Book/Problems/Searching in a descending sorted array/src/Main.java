@@ -35,6 +35,5 @@ public class Main {
 
         System.out.println(binarySearch(arr, key, left, right));
 
-          //  System.out.println(arr[i]);
     }
 }
