@@ -1,0 +1,20 @@
+phonebook/SearchingAlgorithm.java
+ phonebook.SearchingAlgorithm
+phonebook/BinarySearch.java
+ phonebook.BinarySearch
+phonebook/LinearSearch.java
+ phonebook.LinearSearch
+phonebook/MessageBuilder.java
+ phonebook.MessageBuilder
+phonebook/Main.java
+ phonebook.Main
+phonebook/JumpSearch.java
+ phonebook.JumpSearch
+phonebook/NoSortMessage.java
+ phonebook.NoSortMessage
+phonebook/HashTableSearch.java
+ phonebook.HashTableSearch
+phonebook/SortMessage.java
+ phonebook.SortMessage
+phonebook/Message.java
+ phonebook.Message
